@@ -1,5 +1,4 @@
 import GitHubIcon from '../images/icon-github.svg';
-import FrontEndMonterIcon from '../images/icon-frontend-mentor.svg';
 import LinkedInIcon from '../images/icon-linkedin.svg';
 import TwitterIcon from '../images/icon-twitter.svg';
 
