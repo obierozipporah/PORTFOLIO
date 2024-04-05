@@ -12,16 +12,16 @@ export const socialLinks: SocialLinksProps[] = [
   {
     imageLink: GitHubIcon,
     altTag: 'GitHub icon',
-    hrefLink: 'https://github.com/',
+    hrefLink: 'https://github.com/obierozipporah',
   },
   {
     imageLink: LinkedInIcon,
     altTag: 'LinkedIn icon',
-    hrefLink: 'https://www.linkedin.com/',
+    hrefLink: 'https://www.linkedin.com/zipporah-obiero',
   },
   {
     imageLink: TwitterIcon,
     altTag: 'Twitter icon',
-    hrefLink: 'https://twitter.com/',
+    hrefLink: 'https://twitter.com/ZipporahObiero',
   },
 ];
