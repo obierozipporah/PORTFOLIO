@@ -78,14 +78,14 @@ export const PortfolioProjects: PortfolioProjects[] = [
   {
     portfolioImageSmall: ThumbNailFiveMobile,
     portfolioImageLarge: ThumbNailFiveDesktop,
-    portfolioImageAlt: 'Devjobs Board Image',
-    portfolioTile: 'Devjobs Board',
+    portfolioImageAlt: 'Portfolio Image',
+    portfolioTile: 'Portfolio',
     portfolioHtml: 'html',
     portfolioCss: 'css',
     portfolioJavascript: 'Javascript',
     portfolioProjectViewLink:
-      'https://obierozipporah.github.io/E-COMMERCE-WEB-APP/',
+      'https://github.com/obierozipporah/-Portfolio.git',
     portfolioProjectCodeLink:
-      'https://github.com/obierozipporah/devjops.git',
+      'https://main--zobi.netlify.app/',
   },
 ];
