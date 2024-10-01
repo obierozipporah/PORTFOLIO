@@ -6,26 +6,26 @@ interface ExperienceInfoProps {
 export const experienceInfo: ExperienceInfoProps[] = [
   {
     language: 'HTML',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
   {
     language: 'CSS',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
   {
     language: 'Javascript',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
   {
     language: 'Node.js',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
   {
     language: 'React',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
   {
     language: 'Typescript',
-    info: '1 years experience',
+    info: '3 Years Experience',
   },
 ];
